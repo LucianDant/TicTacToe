@@ -1,2 +1,2 @@
 # TicTacToe
-Tic Tac Toe react game
+Tic Tac Toe react game fun
